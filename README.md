@@ -1,6 +1,8 @@
 # Mobile_Dataset_Project-
 Mobile images classification using CNN with Keras 
+
 Dataset has 6 classes:
+
 1- Cats
 2- Dogs
 3- George Bush 
